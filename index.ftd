@@ -1,8 +1,8 @@
--- import: the2ndapproach.com/ajit as ajit
+-- import: the2ndapproach.com/ajit as author
 
 -- ds.page: THE SECOND APPORACH
 
 The Path to create jobs.
 
 -- ds.author-bio:
-author: $ajit
+author: $author.ajit
