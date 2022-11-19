@@ -9,3 +9,11 @@ download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/mai
 -- fpm.auto-import: ds
 -- fpm.auto-import: the2ndapproach.com/FPM/config
 -- fpm.auto-import: fpm
+
+-- fpm.sitemap:
+
+# Home: index.html
+
+# Blog: Fblog/
+
+# Code: Fcode/
