@@ -1,6 +1,6 @@
 -- import: fpm
 
--- fpm.package: the2ndapproach.com/the2ndapproach
+-- fpm.package: the2ndapproach.com
 download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
