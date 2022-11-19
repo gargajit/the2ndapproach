@@ -6,7 +6,7 @@
 
 
 -- ds.image: "Why fit in when you are born to stand out " - Dr Sueuss
-src: $assets.files.standingout.jpeg
+src: $assets.files.img.standingout.jpeg
 
 
 -- ds.h1: Chapter 1: The Beginning
