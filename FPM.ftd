@@ -1,0 +1,8 @@
+-- import: fpm
+
+-- fpm.package: gargajit.github.io/the2ndapproach
+download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/main
+
+-- fpm.dependency: fifthtry.github.io/doc-site as ds
+
+-- fpm.auto-import: ds
