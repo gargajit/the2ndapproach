@@ -1,7 +1,7 @@
 -- import: fpm
 
--- fpm.package: <user_name>.github.io/<repo_name>
-download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
+-- fpm.package: gargajit.github.io/the2ndapproach
+download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
