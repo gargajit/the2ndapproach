@@ -1,8 +1,11 @@
 -- import: fpm
 
--- fpm.package: gargajit.github.io/the2ndapproach
+-- fpm.package: the2ndapproach.com
+zip: github.com/gargajit/the2ndapproach/archive/refs/heads/main.zip
 download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
-
+-- fpm.dependency: fifthtry.github.io/forest-cs as forest-cs
 -- fpm.auto-import: ds
+-- fpm.auto-import: the2ndapproach.com/FPM/config
+-- fpm.auto-import: fpm
