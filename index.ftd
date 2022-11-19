@@ -1,38 +1,8 @@
--- import: the2ndapproach.com/assets
+-- import: the2ndapproach.com/ajit as author
 
+-- ds.page: THE SECOND APPORACH
 
+The Path to create jobs.
 
--- ds.page: The Second Approach: Make your brand
-
-
--- ds.image: "Why fit in when you are born to stand out " - Dr Sueuss
-src: $assets.files.img.standingout.jpeg
-
-
--- ds.h1: Chapter 1: The Beginning
-
-
--- ds.h2: Introduction
-
-My first blog and nothing better way to start than giving insights on how to make a long and valuable career in IT. The insight is an inspiration by a conversation between two people with a magnitude of difference in age, experience, and approach. It's not just an idea, a living transition from a candidate from the Job market approach, which we can call 'The First Approach' into Referral market approach, which we are calling 'The Second Approach'. Almost everyone follows former approach, it's the way our education system relies on, to create a strong resume and get a job in an esteemed IT-based company, while the latter is all about building a brand of your own.
-
-But let's first know the two actors in this conversation. It is between someone trying to make a fresh start in the IT industry, with around 2-year of experience through the First Approach later leaving it to pursue a life entirely different and involves public service but failing to make a career there, is ready to come back strong and to do it differently i.e. the Second Approach and hence is in conversation with a man who has successfully built a long and exciting career with the Second Approach, Amit Upadhyay a.k.a. amitu, the founder at FifthTry, which is his third company; also, he is one of the authors of Django web-based python framework.
-
-I want to thank him for giving me time and to have this conversation which has unsettled me when I was ready to get settled with mediocrity.
-
-
--- ds.h3: Skills are not enough
-
-The career advice you get among ed-tech and videos, is What, How and Where you can learn the skills and make a strong CV that may land you in a job with a decent package. Skills talked here is not knowledge of basic language syntax but Specialization on one or more niche skills that makes you move ahead in the long line of Job-Market by highlighting it on your CV. The end goal is getting a job, and then you start your part of coding as per projects you are assigned to. If that's the objective ie. anyhow get a job, first approach can be the way. But it won't make you love the job, or be excited for the daily routine tasks. And it does not promise the career advancement. Your portfolio will be your role in the projects and the projects have you done for the company and what band or star rating you achieved. If the skills that landed you the job gets obsolete, suddenly you also disappear with that.
-
-So it's the right time to ask the question, what is more to it if skills are not enough? So skills are the 'tactical means' for short term goals but if you want to make big and long career you got to change your short tactical approach into a holistic strategic approach ie. The Second Approach.
-
--- ds.h3: Build your Brand - amitu
-
-How? Your goal is to fall in love with coding. You put your 1 hour to build something for your own, something you learnt and wanted to create and share. It's like even if you are a bathroom singer and not even thinking of making into the music industry and has a job to do but it adds value to you to find time to listen music and to sing or hymn your favorite songs, similarly your love to code is like music and it should not start when you get a project in a job because it's not for the job. The better example he gave me was imagine if Sachin Tendulkar said i would start batting only when I am paid to bat, could he have become the "GOD of Cricket"? Certainly not, he just started batting and kept batting and not only he got selected at a young age in the Indian National Team, but had a long and successful career and he is a brand for himself. Even after he retired from Professional Cricket he never stopped it even if he is not paid to do it. So the idea is if you code you start creating something from day 1 and sooner than you think maybe you create a project or a web application and publish it and it becomes useful to others you will be referred to by those who find your product useful, you can successfully bring investment to your own product and so you have a new world of Referral market, making your own brand which has a growth a job market person can never achieve by coding for the company projects.
-
--- ds.h3: My Learning
-
-Imagine someone looking for a new shirt offline or online and he/she has so many options to chose from, not sure if the shirt he/she is thinking to buy will be up to his/her expectations and will go with all the other clothings in his/her wardrobe versus someone referring him/her a specific shirt for it's proved performance and it gets along with almost every occasion. You, as a shirt don't want to be in the first case or worse left in the cart while a shirt next to you was picked. And with trend changing quickly you don't want to end up in the clearance sale. Instead be a brand that people filter in as the priority. Standing in a line trying to tell the employers that you have this quality versus calling you out of the line as they have seen your work , is the power of referral market. Become the priority.
-
-P.S. There is a joy of doing the same thing.
+-- ds.author-bio:
+author: $ajit
