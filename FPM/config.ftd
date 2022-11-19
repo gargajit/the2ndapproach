@@ -1,9 +1,9 @@
 -- import: ds
 -- import: forest-cs
--- import: fifthtry.github.io/roboto/assets as roboto-assets
+-- import: fifthtry.github.io/roboto-mono/assets as roboto-assets
 
 
--- fpm.font-code: $roboto-assets.fonts.Roboto
+-- fpm.font-code: $roboto-assets.fonts.Mono
 
 
 

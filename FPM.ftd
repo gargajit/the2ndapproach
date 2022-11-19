@@ -6,7 +6,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/mai
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 -- fpm.dependency: fifthtry.github.io/forest-cs as forest-cs
--- fpm.dependency: fifthtry.github.io/roboto
+-- fpm.dependency: fifthtry.github.io/roboto-mono
 
 -- fpm.auto-import: ds
 -- fpm.auto-import: the2ndapproach.com/FPM/config
