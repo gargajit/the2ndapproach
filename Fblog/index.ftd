@@ -5,7 +5,7 @@
 -- ds.page: The Second Approach: Make your brand
 
 
--- ds.image: "Why fit in when you are born to stand out " - Dr Sueuss
+-- ds.image: "Why fit in when you are born to stand out" - Dr Sueuss
 src: $assets.files.img.standingout.jpeg
 width: fill
 
