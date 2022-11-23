@@ -17,6 +17,10 @@ download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/mai
 
 # Home: /index.html
 
-# Blog: /Fblog/
+# Blog: /Fblog/category-1/
+
+- Category 1: /Fblog/category-1/
+  - Chapter 1: /Fblog/category-1/firstblog
+
 
 # Code: /Fcode/
