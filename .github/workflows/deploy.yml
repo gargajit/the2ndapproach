@@ -2,7 +2,7 @@ name: Deploy Site
 
 on:
   push:
-    branches: [ version1-1 ]
+    branches: [ main ]
     paths:
     - '**.ftd'
     - '**.md'
