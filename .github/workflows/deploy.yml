@@ -2,7 +2,7 @@ name: Deploy Site
 
 on:
   push:
-    branches: [ main ]
+    branches: [ version1-1 ]
     paths:
     - '**.ftd'
     - '**.md'
@@ -31,7 +31,7 @@ jobs:
         run: '(test -f CNAME && cp CNAME .build) || echo "CNAME does not exist, skipping step"'
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/version1-1' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./.build
