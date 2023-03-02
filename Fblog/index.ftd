@@ -3,12 +3,11 @@
 
 
 
--- ds.page: The Second Approach: Make your brand
+-- my-ds.page: The Second Approach: Make your brand
 
 
 -- ds.image: "Why fit in when you are born to stand out" - Dr Sueuss
 src: $assets.files.img.standingout.jpeg
-width: fill
 
 
 -- ds.h1: Chapter 1: The Beginning 
@@ -42,3 +41,6 @@ So the idea is if you code from day 1 you start creating and developing ideas th
 Imagine someone looking for a new shirt with so many options to choose from, not sure if the shirt he/she is thinking to buy will be up to his/her expectations and will go with all the other items of clothing in his/her wardrobe versus someone referring him/her a specific shirt for it's proved performance and it gets along with almost every occasion. You, being a shirt don't want to be in the first case or worse left in the cart while a shirt next to you was picked. And with trends changing quickly you don't want to end up in the clearance sale. Instead, be a brand that people filter in as the priority. Standing in a line trying to tell employers that you have this quality versus calling you out of the line as they have seen your work is the power of the referral market. Become the priority.
 
 P.S. There is joy in doing the same thing.
+
+
+-- end: my-ds.page

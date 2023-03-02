@@ -1,0 +1,30 @@
+-- import: fastn
+
+-- fastn.package: the2ndapproach.com
+download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/main
+
+-- fastn.dependency: fifthtry.github.io/doc-site
+-- fastn.dependency: fifthtry.github.io/forest-cs
+-- fastn.dependency: fifthtry.github.io/fastn-typography
+
+
+-- fastn.auto-import: fifthtry.github.io/doc-site as ds
+-- fastn.auto-import: the2ndapproach.com/fastn/my-ds as my-ds
+-- fastn.auto-import: fastn
+-- fastn.auto-import: the2ndapproach.com/assets
+
+
+
+
+
+-- fastn.sitemap:
+
+# Home: /index.html
+
+# Blog: /Fblog/category-1/
+
+- Category 1: /Fblog/category-1/
+  - Chapter 1: /Fblog/category-1/firstblog
+
+
+# Code: /Fcode/

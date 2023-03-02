@@ -1,9 +1,29 @@
--- import: the2ndapproach.com/ajit as author
 
--- ds.page: THE SECOND APPORACH
+
+-- ds.author-meta ajit: Ajit Garg
+profile:  Programmer
+image: $assets.files.img.ajit.jpg
+bio-url: index.html
+company: self employed
+
+I started my IT career through traditional Job-Market approach but I saw myself in the environment where the whole career is dependent on clocking in and out, working on a part of project, with the target of getting those yearly increments and promotions with developing skills what the project or the company requires. Everyone is doing the same thing around me, in my circle, other IT friends. I could see a steady growth year after year, but that growth was more like a small slice given to incentivise my motivation to keep working more for the company. It was nice in a way but i could not feel the contentment i was seeking, i was just another resource among others but nothing more. That made me think, am i going to finish my career with amazing promotions and new roles up the ladder, or there can be more exciting way in this industry.
+
+That's when I decided to leave the job market career growth and start working on something that fulfills me. I figured out creating something of your own is more satisfying than contributing a small part of a project in a company. I was introduced to the Referral Market, where people want to take you and invest on you based on your proven record ability to create new things as a whole. 
+
+This is when I decided to start spreading this idea and called it "The Second Apporach". The second approach to make an exciting career in this industry. My purpose is to reach as many people and help them move out of the rat race and change their mentality that they are capable of creating their own ideas and build their brand around those ideas. I strongly believe that my happiness lies where i can contribute and make a positive change in the society. This website is all about serving that purpose.
+Let's re-think your career.
+
+
+
+-- my-ds.page: THE SECOND APPORACH
 
 Enough working for another brand, let's build your own brand. Welcome to the fresh idea and approach.
 
--- ds.author-bio:
-author: $author.ajit
 
+
+
+-- ds.author-bio:
+author: $ajit
+
+
+-- end: my-ds.page
