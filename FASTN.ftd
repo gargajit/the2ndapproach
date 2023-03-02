@@ -9,7 +9,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/the2ndapproach/mai
 
 
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
--- fastn.auto-import: the2ndapproach.com/fastn/my-ds as my-ds
+-- fastn.auto-import: the2ndapproach.com/FASTN/my-ds as my-ds
 -- fastn.auto-import: fastn
 -- fastn.auto-import: the2ndapproach.com/assets
 
